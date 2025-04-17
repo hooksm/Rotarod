@@ -1,4 +1,4 @@
-function DeepLabCutData_StepSnippetPlotter_allx_shared.m
+function DeepLabCutData_StepSnippetPlotter_allx_shared
 clear
 clc
 
