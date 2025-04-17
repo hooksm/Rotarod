@@ -7,6 +7,10 @@ Software for quantifying steps and step position during the rotarod task
 -Detects steps in the tracker for each paw (Left Front Paw, Left Hind Paw, Right Front Paw, Right Hind Paw)
 -Outputs times and x/y coordinates for later analysis
 
+***DeepLabCutData_StepSnippetPlotter_allx_shared
+-Plots the detected steps as snippets
+-Saves the data in format useable by DeepLabCutData_CombinedPlotter_shared
+
 ***DeepLabCutData_CombinedPlotter_shared:
 -See Figure 3
 -Plots steplength and stependpoint for all cases across:
